@@ -2,7 +2,9 @@
 
 ##Course Tutors
 
--> Prof. P. Lewis & Dr. M. Disney<-
+->Prof. P. Lewis & Dr. M. Disney<-
+
+
     Department of Geography
     University College London
 
