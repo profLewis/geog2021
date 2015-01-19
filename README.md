@@ -43,6 +43,11 @@ Usual range 100-150 for 1/2 course unit
 
 + 40% Assessed Practical (2500 words) - submission date standard 2nd year submission date i.e. Weds 25th March 2015 (12 noon).
 
+N.B.
+    - Penalties for late submission and over length WILL be applied
+    - BOTH components must be submitted for the course to be complete
+    - Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
+
 
 ####<a name="Timetable">Timetable 2014-15</a>
 
