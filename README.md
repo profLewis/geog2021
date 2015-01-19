@@ -1,7 +1,9 @@
 # GEOG2021 Environmental Remote Sensing
 
-## xx
-    Prof. P. Lewis & Dr. M. Disney
+##Course Tutors
+
+<center>
+Prof. P. Lewis & Dr. M. Disney
     Department of Geography
     University College London
 
