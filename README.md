@@ -88,3 +88,8 @@ Computing in Pearson Building, UNIX Computer lab, PB 110a
 - Mather, P. (2004) Computer processing of remotely sensed images: an introduction 
 
 ####<a name="elsewhere">How to run the practicals elsewhere</a>
+
+You can download all of the notes and practicals from this site.
+
+To run the practicals, you will need access to [ENVI](http://swdb.ucl.ac.uk/package/view/id/142?filter=envi) and the datasets associated with each practical.
+
