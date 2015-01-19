@@ -45,7 +45,9 @@ Usual range 100-150 for 1/2 course unit
 
 N.B.
     - Penalties for late submission and over length WILL be applied
+    
     - BOTH components must be submitted for the course to be complete
+    
     - Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
 
 
