@@ -33,9 +33,9 @@
 |Supervised Laboratory Work (Computing) |	24|
 |Independent Laboratory Work (Computing) |	20|
 |Required Written Work |	10|
-|TOTAL |	142[$^1$]|
+|TOTAL |	142[$$^1$$]|
 
-[$^1$]: Usual range 100-150 for 1/2 course unit 
+[$$^1$$]: Usual range 100-150 for 1/2 course unit 
 
 
 
