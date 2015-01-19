@@ -4,8 +4,9 @@
 
 [Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis) & [Dr. M. Disney](http://www.geog.ucl.ac.uk/about-the-department/people/academic-staff/mat-disney)
 
-    Department of Geography
-    University College London
+Department of Geography
+    
+University College London
     
 
 [[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2014-15](#Timetable)] [[Simple introduction to UNIX](#UNIX)] [[How to run the practicals elsewhere](#elsewhere)]
