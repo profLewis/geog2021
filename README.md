@@ -49,11 +49,9 @@ Usual range 100-150 for 1/2 course unit
 
 N.B.
 
-    - Penalties for late submission and over length WILL be applied
-    
-    - BOTH components must be submitted for the course to be complete
-    
-    - Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
+- Penalties for late submission and over length WILL be applied
+- BOTH components must be submitted for the course to be complete
+- Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
 
 
 ####<a name="Timetable">Timetable 2014-15</a>
@@ -61,7 +59,7 @@ N.B.
 
 |  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------|  -------------------| :-----------------: | :------------------: |
-| Week 1 | 12/1/15 LECTURE  [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 15/1/15: [Computing](basicUnixFileMgr)|
+| Week 1 | 12/1/15 LECTURE  [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 15/1/15 COMPUTING [Introductory Computing](basicUnixFileMgr)|15/1/15 COMPUTING [Image Display](practical1)|
 | Week 2 | 
 | Week 3 | 
 | Week 4 | 
