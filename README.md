@@ -63,18 +63,18 @@ N.B.
 | Week 2 | 19/1/15 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 22/1/15 COMPUTING 2 [Image Display](practical1)| 22/1/15 COMPUTING 2 [Image Display](practical1)|
 | Week 3 | 26/1/15 LECTURE 3 [Spatial Information](lecture5.ppt) | 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)| 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)|
 | Week 4 | 02/2/15 LECTURE 4 [Image Classification](lecture4.ppt) | 29/1/15 COMPUTING 3 [Classification](practical3)| 29/1/15 COMPUTING 3 [Classification](practical3)|
-| Week 5 | 02/2/15 LECTURE 5 [Spectral Information](lecture3.ppt) | 29/1/15 COMPUTING 3 [Classification](practical3)| 29/1/15 COMPUTING 3 [Classification](practical3)|
+| Week 5 | 02/2/15 LECTURE 5 [Spectral Information](lecture3.ppt) | 05/2/15 COMPUTING 3 [Classification](practical3)| 05/2/15 COMPUTING 3 [Classification](practical3)|
 | Week 6 | READING WEEK | READING WEEK | READING WEEK |
-| Week 7 | 
-| Week 8 | 
-| Week 9 | 
-| Week 10 | 
-| Week 11 | 
+| Week 7 | 23/2/15 LECTURE 6 [Environmental Modelling: I](modelling1.ppt) | 26/2/15 COMPUTING 4 [Project](project)| 26/2/15 COMPUTING 4 [Project](project)|
+| Week 8 | 02/3/15 LECTURE 6 [Environmental Modelling: II](modelling2.ppt) | 05/3/15 COMPUTING 4 [Project](project)| 05/3/15 COMPUTING 4 [Project](project)|
+| Week 9 | 09/3/15 LECTURE 6 [Sytems, sensors & revision](lecture8.ppt) | 12/3/15 COMPUTING 4 [Project](project)| 12/3/15 COMPUTING 4 [Project](project)|
+| Week 10 | 16/3/15 PROJECT DISCUSSIONS (Pearson Bld 110a)| 19/3/15 COMPUTING 3 [Project](project)| 19/3/15 COMPUTING 3 [Project](project)|
+| Week 11 | 23/3/15 [Project](project)| 26/3/15 COMPUTING 4 [Project](project)| 26/3/15 COMPUTING 4 [Project](project)|
 
 
 Lectures in (Foster Court, room 132)
 
-Compouting in Pearson Building, UNIX Computer lab, PB 110a 
+Computing in Pearson Building, UNIX Computer lab, PB 110a 
 
 
 
