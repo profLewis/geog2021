@@ -33,11 +33,15 @@
 |Supervised Laboratory Work (Computing) |	24|
 |Independent Laboratory Work (Computing) |	20|
 |Required Written Work |	10|
-|TOTAL |	142 $^1$|
+|TOTAL |	142|
 
-$^1$: Usual range 100-150 for 1/2 course unit 
+Usual range 100-150 for 1/2 course unit 
 
+#####Assessment
 
++ 60% Two hour unseen written examination
+
++ 40% Assessed Practical (2500 words) - submission date standard 2nd year submission date i.e. Weds 25th March 2015 (12 noon).
 
 
 ####<a name="Timetable">Timetable 2014-15</a>
