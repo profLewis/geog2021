@@ -63,8 +63,8 @@ N.B.
 | Week 2 | 19/1/15 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 22/1/15 COMPUTING 2 [Image Display](practical1)| 22/1/15 COMPUTING 2 [Image Display](practical1)|
 | Week 3 | 26/1/15 LECTURE 3 [Spatial Information](lecture5.ppt) | 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)| 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)|
 | Week 4 | 02/2/15 LECTURE 4 [Image Classification](lecture4.ppt) | 29/1/15 COMPUTING 3 [Classification](practical3)| 29/1/15 COMPUTING 3 [Classification](practical3)|
-| Week 5 | 
-| Week 6 | 
+| Week 5 | 02/2/15 LECTURE 5 [Spectral Information](lecture3.ppt) | 29/1/15 COMPUTING 3 [Classification](practical3)| 29/1/15 COMPUTING 3 [Classification](practical3)|
+| Week 6 | READING WEEK | READING WEEK | READING WEEK |
 | Week 7 | 
 | Week 8 | 
 | Week 9 | 
