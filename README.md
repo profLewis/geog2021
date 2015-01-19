@@ -58,6 +58,16 @@ N.B.
 
 ####<a name="Timetable">Timetable 2014-15</a>
 
+
+| Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
+| -------------------| :-----------------: | :------------------: |
+| Week 1 | 
+| Week 1 | 
+| Week 1 | 
+| Week 1 | 
+| Week 1 | 
+| Week 1 | 
+
 ####<a name="UNIX">Simple introduction to UNIX</a>
 
 ####<a name="elsewhere">How to run the practicals elsewhere</a>
