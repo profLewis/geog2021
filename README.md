@@ -2,9 +2,9 @@
 
 ##Course Tutors
 
--> Prof. P. Lewis & Dr. M. Disney
+-> Prof. P. Lewis & Dr. M. Disney<-
     Department of Geography
-    University College London<-
+    University College London
 
 [Educational Aims and Objectives of the Course] [Course workload and assessment] [Timetable 2013]
 
