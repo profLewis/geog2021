@@ -59,9 +59,9 @@ N.B.
 ####<a name="Timetable">Timetable 2014-15</a>
 
 
-| Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
-| -------------------| :-----------------: | :------------------: |
-| Week 1 | 12/1/15 LECTURE (Foster Court, room 132) Introduction to course; Environmental Remote Sensing | xx|
+|  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
+| -------------------|  -------------------| :-----------------: | :------------------: |
+| Week 1 | 12/1/15 LECTURE  [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 15/1/15: [Computing](basicUnixFileMgr)|
 | Week 2 | 
 | Week 3 | 
 | Week 4 | 
@@ -72,6 +72,14 @@ N.B.
 | Week 9 | 
 | Week 10 | 
 | Week 11 | 
+
+
+Lectures in (Foster Court, room 132)
+
+Compouting in Pearson Building, UNIX Computer lab, PB 110a 
+
+
+
 
 ####<a name="UNIX">Simple introduction to UNIX</a>
 
