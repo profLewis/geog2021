@@ -61,7 +61,7 @@ N.B.
 | -------------------|  -------------------| :-----------------: | :------------------: |
 | Week 1 | 12/1/15 LECTURE 1 [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 15/1/15 COMPUTING 1 [Introductory Computing](basicUnixFileMgr)|15/1/15 COMPUTING 2 [Image Display](practical1)|
 | Week 2 | 19/1/15 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 22/1/15 COMPUTING 2 [Image Display](practical1)| 22/1/15 COMPUTING 2 [Image Display](practical1)|
-| Week 3 | 
+| Week 3 | 26/1/15 LECTURE 3 [Spatial Information](lecture5.ppt) | 29/1/15 COMPUTING 2 [Image Display](practical2)| 29/1/15 COMPUTING 2 [Image Display](practical2)|
 | Week 4 | 
 | Week 5 | 
 | Week 6 | 
