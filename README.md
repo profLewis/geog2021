@@ -93,3 +93,5 @@ You can download all of the notes and practicals from this site.
 
 To run the practicals, you will need access to [ENVI](http://swdb.ucl.ac.uk/package/view/id/142?filter=envi) and the datasets associated with each practical.
 
+Note that installing IDL/Envi is likely to take around 2.5 GB of space.
+
