@@ -61,9 +61,7 @@ N.B.
 
 | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------| :-----------------: | :------------------: |
-| Week 1 | 12/1/15 LECTURE (Foster Court, room 132) 
-            Introduction to course 
-            Environmental Remote Sensing | xx|
+| Week 1 | 12/1/15 LECTURE (Foster Court, room 132) Introduction to course; Environmental Remote Sensing | xx|
 | Week 2 | 
 | Week 3 | 
 | Week 4 | 
