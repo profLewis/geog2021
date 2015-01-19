@@ -9,7 +9,7 @@ Department of Geography
 University College London
     
 
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2014-15](#Timetable)] [[Simple introduction to UNIX](#UNIX)] [[How to run the practicals elsewhere](#elsewhere)]
+[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2014-15](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
 
 -----------------------------------
 
@@ -68,7 +68,7 @@ N.B.
 | Week 7 | 23/2/15 LECTURE 6 [Environmental Modelling: I](modelling1.ppt) | 26/2/15 COMPUTING 4 [Project](project)| 26/2/15 COMPUTING 4 [Project](project)|
 | Week 8 | 02/3/15 LECTURE 6 [Environmental Modelling: II](modelling2.ppt) | 05/3/15 COMPUTING 4 [Project](project)| 05/3/15 COMPUTING 4 [Project](project)|
 | Week 9 | 09/3/15 LECTURE 6 [Sytems, sensors & revision](lecture8.ppt) | 12/3/15 COMPUTING 4 [Project](project)| 12/3/15 COMPUTING 4 [Project](project)|
-| Week 10 | 16/3/15 PROJECT DISCUSSIONS (Pearson Bld 110a)| 19/3/15 COMPUTING 3 [Project](project)| 19/3/15 COMPUTING 3 [Project](project)|
+| Week 10 | 16/3/15 PROJECT DISCUSSIONS (Pearson Bld 110a)| 19/3/15 COMPUTING 4 [Project](project)| 19/3/15 COMPUTING 4 [Project](project)|
 | Week 11 | 23/3/15 [Project](project)| 26/3/15 COMPUTING 4 [Project](project)| 26/3/15 COMPUTING 4 [Project](project)|
 
 
@@ -79,6 +79,12 @@ Computing in Pearson Building, UNIX Computer lab, PB 110a
 
 
 
-####<a name="UNIX">Simple introduction to UNIX</a>
+####<a name="Reading List">Reading List</a>
+
+- Jensen, John R. (2006) Remote Sensing of the Environment: an Earth Resources Perspective, Hall and Prentice, New Jersey, 2nd ed.
+- Jensen, John R. (1995, 2004) Introductory Digital Image Processing: A Remote Sensing Perspective (Prentice Hall Series in Geographic Information Science)
+- Jones, H. G and Vaughan, R. A. (2010) Remote Sensing of Vegetation, OUP, Oxford.
+- Lillesand, T., Kiefer, R. and Chipman, J. (2004) Remote Sensing and Image Interpretation. John Wiley and Sons, NY, 5th ed.
+- Mather, P. (2004) Computer processing of remotely sensed images: an introduction 
 
 ####<a name="elsewhere">How to run the practicals elsewhere</a>
