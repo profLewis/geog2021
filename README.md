@@ -25,14 +25,20 @@
 
 ####<a name="workload">Course workload and assessment</a>
 
+#####Expected Course Load
 |Component 	|Hours|
-|:-------:  | :--------:|
+|-------  | :--------:|
 | Lectures | 	8|
 |Private Reading/Revision 	|80
 |Supervised Laboratory Work (Computing) |	24|
 |Independent Laboratory Work (Computing) |	20|
 |Required Written Work |	10|
-|TOTAL |	142|
+|TOTAL |	142[^1]|
+
+[^1]: Usual range 100-150 for 1/2 course unit 
+
+
+
 
 ####<a name="Timetable">Timetable 2014-15</a>
 
