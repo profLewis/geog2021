@@ -7,7 +7,8 @@
     Department of Geography
     University College London
     
-    [Educational Aims and Objectives of the Course](Education)
+
+[Educational Aims and Objectives of the Course](Education)
 
 ####<a name="Education">Educational Aims and Objectives of the Course</a>
 
