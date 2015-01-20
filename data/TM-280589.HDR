@@ -1,0 +1,22 @@
+ENVI
+description = {
+  TM 28 05 1989 }
+samples = 3000
+lines   = 1900
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Unknown
+byte order = 1
+map info = {United Kingdom, 1.0000, 1.0000, 496346.8329, 203250.0000, 2.5000000000e+01, 2.5000000000e+01, , units=Meters}
+projection info = {3, 6377563.4, 6356256.9, 49.000000, -2.000000, 400000.0, -100000.0, 0.999601, United Kingdom, units=Meters}
+wavelength units = nm
+band names = {
+ 450-520, 
+ 520-600, 
+ 630-690, 
+ 700-900, 
+ 1550-1750, 
+ 2080-2350}
