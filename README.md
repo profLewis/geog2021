@@ -29,6 +29,9 @@ University College London
 + Develop links with the second year course on Geographic Information Systems Science and with othet courses as appropriate (e.g. hydrology, environmental systems)
 + Lay the foundations for the third year course on Earth Observation
 
+-----------------------------------
+
+
 ####<a name="workload">Course workload and assessment</a>
 
 #####Expected Course Load
@@ -43,6 +46,10 @@ University College London
 
 Usual range 100-150 for 1/2 course unit 
 
+
+-----------------------------------
+
+
 #####Assessment
 
 + 60% Two hour unseen written examination
@@ -54,6 +61,8 @@ N.B.
 - Penalties for late submission and over length WILL be applied
 - BOTH components must be submitted for the course to be complete
 - Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
+
+-----------------------------------
 
 
 ####<a name="Timetable">Timetable 2014-15</a>
@@ -79,6 +88,7 @@ Lectures in (Foster Court, room 132)
 Computing in Pearson Building, UNIX Computer lab, PB 110a 
 
 
+-----------------------------------
 
 
 ####<a name="Reading List">Reading List</a>
@@ -88,6 +98,11 @@ Computing in Pearson Building, UNIX Computer lab, PB 110a
 - Jones, H. G and Vaughan, R. A. (2010) Remote Sensing of Vegetation, OUP, Oxford.
 - Lillesand, T., Kiefer, R. and Chipman, J. (2004) Remote Sensing and Image Interpretation. John Wiley and Sons, NY, 5th ed.
 - Mather, P. (2004) Computer processing of remotely sensed images: an introduction 
+
+
+-----------------------------------
+
+
 
 ####<a name="elsewhere">How to run the practicals elsewhere</a>
 
