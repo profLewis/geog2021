@@ -1,4 +1,4 @@
-![UCL](ucl_logo.png)
+![UCL](images/ucl_logo.png)
 
 # GEOG2021 Environmental Remote Sensing
 
