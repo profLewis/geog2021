@@ -59,8 +59,8 @@ N.B.
 
 |  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------|  -------------------| :-----------------: | :------------------: |
-| Week 1 | 12/1/15 LECTURE 1 [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 15/1/15 COMPUTING 1 [Introductory Computing](basicUnixFileMgr)|15/1/15 COMPUTING 2 [Image Display](practical1)|
-| Week 2 | 19/1/15 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 22/1/15 COMPUTING 2 [Image Display](practical1)| 22/1/15 COMPUTING 2 [Image Display](practical1)|
+| Week 1 | 12/1/15 LECTURE 1 [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 15/1/15 COMPUTING 1 [Introductory Computing](basicUnixFileMgr)|15/1/15 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 2 | 19/1/15 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 22/1/15 COMPUTING 2 [Image Display](ImageDisplay.ipynb)| 22/1/15 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
 | Week 3 | 26/1/15 LECTURE 3 [Spatial Information](lecture5.ppt) | 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)| 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)|
 | Week 4 | 02/2/15 LECTURE 4 [Image Classification](lecture4.ppt) | 29/1/15 COMPUTING 3 [Classification](practical3)| 29/1/15 COMPUTING 3 [Classification](practical3)|
 | Week 5 | 02/2/15 LECTURE 5 [Spectral Information](lecture3.ppt) | 05/2/15 COMPUTING 3 [Classification](practical3)| 05/2/15 COMPUTING 3 [Classification](practical3)|
