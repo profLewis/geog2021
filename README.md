@@ -95,3 +95,4 @@ To run the practicals, you will need access to [ENVI](http://swdb.ucl.ac.uk/pack
 
 Note that installing IDL/Envi is likely to take around 2.5 GB of space.
 
+If you download ENVI, make sure you also download the [license file](http://swdb.ucl.ac.uk/package/download/id/142/fileId/1539). If you install ENVI on your own computer, make sure you follow the instructions [on setting up the license server](http://www.exelisvis.com/Support/HelpArticlesDetail/TabId/219/ArtMID/900/ArticleID/4660/4660.aspx) after downloading the software and license file from the [UCL software database](http://swdb.ucl.ac.uk).
