@@ -15,7 +15,7 @@ def show_args(**kwargs):
     filt['2nd Order High Pass'] = np.array([0]*w).astype(float)
     filt['2nd Order High Pass'][0] = 1
     filt['2nd Order High Pass'][-1] = 1
-    filt['2nd Order High Pass'][w/2] = 1
+    filt['2nd Order High Pass'][w/2] = -2
 
     x = np.linspace(0, 100, 500)
 
