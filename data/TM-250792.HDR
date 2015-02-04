@@ -1,0 +1,25 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Fri Sep 29 15:22:05 2006]}
+samples = 3600
+lines   = 3600
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 1
+x start = 101
+y start = 101
+map info = {UTM, 1.000, 1.000, 502804.482, 8781216.643, 2.8500000000e+01, 2.8500000000e+01, 20, South, WGS-84, units=Meters}
+wavelength units = Unknown
+dem file = SRTM-2002
+band names = {
+ Resize (Resize (Layer (Resize (Layer (Band 1:p231r68_5t19920725_nn1.tif):all):TM-250792):all):allsub), 
+ Resize (Resize (Layer (Resize (Layer (Band 1:p231r68_5t19920725_nn2.tif):all):TM-250792):all):allsub), 
+ Resize (Resize (Layer (Resize (Layer (Band 1:p231r68_5t19920725_nn3.tif):all):TM-250792):all):allsub), 
+ Resize (Resize (Layer (Resize (Layer (Band 1:p231r68_5t19920725_nn4.tif):all):TM-250792):all):allsub), 
+ Resize (Resize (Layer (Resize (Layer (Band 1:p231r68_5t19920725_nn5.tif):all):TM-250792):all):allsub), 
+ Resize (Resize (Layer (Resize (Layer (Band 1:p231r68_5t19920725_nn7.tif):all):TM-250792):all):allsub)}
