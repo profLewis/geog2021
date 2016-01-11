@@ -67,7 +67,7 @@ N.B.
 
 |  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------|  -------------------| :-----------------: | :------------------: |
-| Week 1 | 11/1/16 LECTURE 1 [Introduction to course; Environmental Remote Sensing](https://www.dropbox.com/s/m8x67x886ozijgm/lecture1.ppt?dl=0) | 14/1/16 COMPUTING 1 [Introductory Computing](basicUnixFileMgr)|14/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 1 | 11/1/16 LECTURE 1 [Introduction to course; Environmental Remote Sensing](https://www.dropbox.com/s/m8x67x886ozijgm/lecture1.ppt?dl=0) | 14/1/16 COMPUTING 1 [Introductory Computing](basicUnixFileMgr.html)|14/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
 | Week 2 | 18/1/16 LECTURE 2 [Image Display and Enhancement](https://www.dropbox.com/s/im466q7nsvrf77w/lecture2.ppt?dl=0) | 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)| 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
 | Week 3 | 25/1/16 LECTURE 3 [Spatial Information](https://www.dropbox.com/s/q456rxua4ib635f/lecture5.ppt?dl=0) | 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)| 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)|
 | Week 4 | 01/2/16 LECTURE 4 [Image Classification](https://www.dropbox.com/s/ikuvkdfvrhb8inz/lecture4.ppt?dl=0) | 04/2/16 COMPUTING 3 [Classification](practical3)| 04/2/16 COMPUTING 3 [Classification](practical3)|
