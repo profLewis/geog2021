@@ -77,7 +77,7 @@ N.B.
 | Week 8 | 29/2/16 LECTURE 6 [Environmental Modelling: II](modelling2.ppt) | 03/3/16 COMPUTING 4 [Project](project)| 03/3/16 COMPUTING 4 [Project](project)|
 | Week 9 | 07/3/16 LECTURE 6 [Sytems, sensors & revision](lecture8.ppt) | 10/3/16 COMPUTING 4 [Project](project)| 10/3/16 COMPUTING 4 [Project](project)|
 | Week 10 | 14/3/15 PROJECT DISCUSSIONS (Physics A1/3)| 17/3/16 COMPUTING 4 [Project](project)| 17/3/16 COMPUTING 4 [Project](project)|
-| Week 11 | 21/3/16 [Project](project)| 24/3/16 COMPUTING 4 [Project](project)| 24/3/16 COMPUTING 4 [Project](project)|
+| Week 11 | 21/3/16 [Project](project)| | |
 
 
 Lectures in (Physics A1/3 (4th floor))
