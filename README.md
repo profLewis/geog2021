@@ -52,14 +52,11 @@ Usual range 100-150 for 1/2 course unit
 
 #####Assessment
 
-+ 60% Two hour unseen written examination
-
-+ 40% Assessed Practical (2500 words) - submission date standard 2nd year submission date i.e. Weds 25th March 2015 (12 noon).
++ 100% Assessed Practical (3500 words) - submission date standard 2nd year submission date i.e. Weds 23th March 2016 (12 noon).
 
 N.B.
 
 - Penalties for late submission and over length WILL be applied
-- BOTH components must be submitted for the course to be complete
 - Different arrangements for JYA/Socrates (make sure you inform the lecturers if this affects you)
 
 -----------------------------------
@@ -70,20 +67,20 @@ N.B.
 
 |  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------|  -------------------| :-----------------: | :------------------: |
-| Week 1 | 12/1/15 LECTURE 1 [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 15/1/15 COMPUTING 1 [Introductory Computing](basicUnixFileMgr)|15/1/15 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
-| Week 2 | 19/1/15 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 22/1/15 COMPUTING 2 [Image Display](ImageDisplay.ipynb)| 22/1/15 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
-| Week 3 | 26/1/15 LECTURE 3 [Spatial Information](lecture5.ppt) | 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)| 29/1/15 COMPUTING 2 [Spatial Filtering](practical2)|
-| Week 4 | 02/2/15 LECTURE 4 [Image Classification](lecture4.ppt) | 29/1/15 COMPUTING 3 [Classification](practical3)| 29/1/15 COMPUTING 3 [Classification](practical3)|
-| Week 5 | 02/2/15 LECTURE 5 [Spectral Information](lecture3.ppt) | 05/2/15 COMPUTING 3 [Classification](practical3)| 05/2/15 COMPUTING 3 [Classification](practical3)|
+| Week 1 | 11/1/16 LECTURE 1 [Introduction to course; Environmental Remote Sensing](lecture1.ppt) | 14/1/16 COMPUTING 1 [Introductory Computing](basicUnixFileMgr)|14/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 2 | 18/1/16 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)| 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 3 | 25/1/16 LECTURE 3 [Spatial Information](lecture5.ppt) | 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)| 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)|
+| Week 4 | 01/2/16 LECTURE 4 [Image Classification](lecture4.ppt) | 04/2/16 COMPUTING 3 [Classification](practical3)| 04/2/16 COMPUTING 3 [Classification](practical3)|
+| Week 5 | 08/2/16 LECTURE 5 [Spectral Information](lecture3.ppt) | 11/2/16 COMPUTING 3 [Classification](practical3)| 11/2/16 COMPUTING 3 [Classification](practical3)|
 | Week 6 | READING WEEK | READING WEEK | READING WEEK |
-| Week 7 | 23/2/15 LECTURE 6 [Environmental Modelling: I](modelling1.ppt) | 26/2/15 COMPUTING 4 [Project](project)| 26/2/15 COMPUTING 4 [Project](project)|
-| Week 8 | 02/3/15 LECTURE 6 [Environmental Modelling: II](modelling2.ppt) | 05/3/15 COMPUTING 4 [Project](project)| 05/3/15 COMPUTING 4 [Project](project)|
-| Week 9 | 09/3/15 LECTURE 6 [Sytems, sensors & revision](lecture8.ppt) | 12/3/15 COMPUTING 4 [Project](project)| 12/3/15 COMPUTING 4 [Project](project)|
-| Week 10 | 16/3/15 PROJECT DISCUSSIONS (Pearson Bld 110a)| 19/3/15 COMPUTING 4 [Project](project)| 19/3/15 COMPUTING 4 [Project](project)|
-| Week 11 | 23/3/15 [Project](project)| 26/3/15 COMPUTING 4 [Project](project)| 26/3/15 COMPUTING 4 [Project](project)|
+| Week 7 | 22/2/16 LECTURE 6 [Environmental Modelling: I](modelling1.ppt) | 25/2/16 COMPUTING 4 [Project](project)| 25/2/16 COMPUTING 4 [Project](project)|
+| Week 8 | 29/2/16 LECTURE 6 [Environmental Modelling: II](modelling2.ppt) | 03/3/16 COMPUTING 4 [Project](project)| 03/3/16 COMPUTING 4 [Project](project)|
+| Week 9 | 07/3/16 LECTURE 6 [Sytems, sensors & revision](lecture8.ppt) | 10/3/16 COMPUTING 4 [Project](project)| 10/3/16 COMPUTING 4 [Project](project)|
+| Week 10 | 14/3/15 PROJECT DISCUSSIONS (Physics A1/3)| 17/3/16 COMPUTING 4 [Project](project)| 17/3/16 COMPUTING 4 [Project](project)|
+| Week 11 | 21/3/16 [Project](project)| 24/3/16 COMPUTING 4 [Project](project)| 24/3/16 COMPUTING 4 [Project](project)|
 
 
-Lectures in (Foster Court, room 132)
+Lectures in (Physics A1/3 (4th floor))
 
 Computing in Pearson Building, UNIX Computer lab, PB 110a 
 
