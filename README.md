@@ -1,4 +1,4 @@
-![UCL](images/ucl_logo.png?raw=true)
+![UCL](https://github.com/profLewis/Geog2021_Coursework/blob/master/images/ucl_logo.png)
 
 # GEOG2021 Environmental Remote Sensing
 
@@ -113,4 +113,4 @@ If you download ENVI, make sure you also download the [license file](http://swdb
 
 You can also run the practicals using [desktop@UCL Anywhere](http://www.ucl.ac.uk/isd/services/desktops/students/desktop-anywhere)
 
-![desktop@UCL Anywhere](images/desktop-ucl-anywhere-logo-globe.jpg?raw=true)
+![desktop@UCL Anywhere](https://github.com/profLewis/geog2021/blob/master/images/desktop-ucl-anywhere-logo-globe.jpg)
