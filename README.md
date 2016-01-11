@@ -68,14 +68,14 @@ N.B.
 |  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------|  -------------------| :-----------------: | :------------------: |
 | Week 1 | 11/1/16 LECTURE 1 [Introduction to course; Environmental Remote Sensing](https://www.dropbox.com/s/m8x67x886ozijgm/lecture1.ppt?dl=0) | 14/1/16 COMPUTING 1 [Introductory Computing](basicUnixFileMgr)|14/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
-| Week 2 | 18/1/16 LECTURE 2 [Image Display and Enhancement](lecture2.ppt) | 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)| 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
-| Week 3 | 25/1/16 LECTURE 3 [Spatial Information](lecture5.ppt) | 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)| 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)|
-| Week 4 | 01/2/16 LECTURE 4 [Image Classification](lecture4.ppt) | 04/2/16 COMPUTING 3 [Classification](practical3)| 04/2/16 COMPUTING 3 [Classification](practical3)|
-| Week 5 | 08/2/16 LECTURE 5 [Spectral Information](lecture3.ppt) | 11/2/16 COMPUTING 3 [Classification](practical3)| 11/2/16 COMPUTING 3 [Classification](practical3)|
+| Week 2 | 18/1/16 LECTURE 2 [Image Display and Enhancement](https://www.dropbox.com/s/im466q7nsvrf77w/lecture2.ppt?dl=0) | 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)| 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 3 | 25/1/16 LECTURE 3 [Spatial Information](https://www.dropbox.com/s/q456rxua4ib635f/lecture5.ppt?dl=0) | 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)| 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)|
+| Week 4 | 01/2/16 LECTURE 4 [Image Classification](https://www.dropbox.com/s/ikuvkdfvrhb8inz/lecture4.ppt?dl=0) | 04/2/16 COMPUTING 3 [Classification](practical3)| 04/2/16 COMPUTING 3 [Classification](practical3)|
+| Week 5 | 08/2/16 LECTURE 5 [Spectral Information](https://www.dropbox.com/s/xc5zwglb5843eol/lecture3.ppt?dl=0) | 11/2/16 COMPUTING 3 [Classification](practical3)| 11/2/16 COMPUTING 3 [Classification](practical3)|
 | Week 6 | READING WEEK | READING WEEK | READING WEEK |
-| Week 7 | 22/2/16 LECTURE 6 [Environmental Modelling: I](modelling1.ppt) | 25/2/16 COMPUTING 4 [Project](project)| 25/2/16 COMPUTING 4 [Project](project)|
-| Week 8 | 29/2/16 LECTURE 6 [Environmental Modelling: II](modelling2.ppt) | 03/3/16 COMPUTING 4 [Project](project)| 03/3/16 COMPUTING 4 [Project](project)|
-| Week 9 | 07/3/16 LECTURE 6 [Sytems, sensors & revision](lecture8.ppt) | 10/3/16 COMPUTING 4 [Project](project)| 10/3/16 COMPUTING 4 [Project](project)|
+| Week 7 | 22/2/16 LECTURE 6 [Environmental Modelling: I](https://www.dropbox.com/s/lnsk8ocn2258nyr/modelling1.ppt?dl=0) | 25/2/16 COMPUTING 4 [Project](project)| 25/2/16 COMPUTING 4 [Project](project)|
+| Week 8 | 29/2/16 LECTURE 6 [Environmental Modelling: II](https://www.dropbox.com/s/jmvq5d08nxy5s6d/modelling2.ppt?dl=0) | 03/3/16 COMPUTING 4 [Project](project)| 03/3/16 COMPUTING 4 [Project](project)|
+| Week 9 | 07/3/16  COMPUTING 4 [Project](project)| | 10/3/16 COMPUTING 4 [Project](project)| 10/3/16 COMPUTING 4 [Project](project)|
 | Week 10 | 14/3/15 PROJECT DISCUSSIONS (Physics A1/3)| 17/3/16 COMPUTING 4 [Project](project)| 17/3/16 COMPUTING 4 [Project](project)|
 | Week 11 | 21/3/16 [Project](project)| | |
 
