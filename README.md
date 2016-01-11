@@ -1,10 +1,10 @@
-![UCL](images/ucl_logo.png)
+![UCL](https://github.com/profLewis/geog2021/blob/master/images/ucl_logo.png)
 
 # GEOG2021 Environmental Remote Sensing
 
 ##Course Tutors
 
-[Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis) & [Dr. M. Disney](http://www.geog.ucl.ac.uk/about-the-department/people/academic-staff/mat-disney)
+[Prof. P. Lewis](http://www2.geog.ucl.ac.uk/~plewis)
 
 Department of Geography
     
@@ -67,7 +67,7 @@ N.B.
 
 |  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------|  -------------------| :-----------------: | :------------------: |
-| Week 1 | 11/1/16 LECTURE 1 [Introduction to course; Environmental Remote Sensing](https://www.dropbox.com/s/m8x67x886ozijgm/lecture1.ppt?dl=0) | 14/1/16 COMPUTING 1 [Introductory Computing](basicUnixFileMgr.html)|14/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 1 | 11/1/16 LECTURE 1 [Introduction to course; Environmental Remote Sensing](https://www.dropbox.com/s/m8x67x886ozijgm/lecture1.ppt?dl=0) | 14/1/16 COMPUTING 1 [Introductory Computing](basicUnixFileMgr.html)|14/1/16 COMPUTING 2 [Image Display](https://github.com/profLewis/geog2021/blob/master/ImageDisplay.ipynb)|
 | Week 2 | 18/1/16 LECTURE 2 [Image Display and Enhancement](https://www.dropbox.com/s/im466q7nsvrf77w/lecture2.ppt?dl=0) | 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)| 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
 | Week 3 | 25/1/16 LECTURE 3 [Spatial Information](https://www.dropbox.com/s/q456rxua4ib635f/lecture5.ppt?dl=0) | 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)| 28/1/16 COMPUTING 2 [Spatial Filtering](practical2)|
 | Week 4 | 01/2/16 LECTURE 4 [Image Classification](https://www.dropbox.com/s/ikuvkdfvrhb8inz/lecture4.ppt?dl=0) | 04/2/16 COMPUTING 3 [Classification](practical3)| 04/2/16 COMPUTING 3 [Classification](practical3)|
@@ -113,4 +113,4 @@ If you download ENVI, make sure you also download the [license file](http://swdb
 
 You can also run the practicals using [desktop@UCL Anywhere](http://www.ucl.ac.uk/isd/services/desktops/students/desktop-anywhere)
 
-![desktop@UCL Anywhere](images/desktop-ucl-anywhere-logo-globe.jpg)
+![desktop@UCL Anywhere](https://github.com/profLewis/geog2021/blob/master/images/desktop-ucl-anywhere-logo-globe.jpg)
