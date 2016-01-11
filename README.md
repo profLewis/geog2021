@@ -11,7 +11,7 @@ Department of Geography
 University College London
     
 
-[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2014-15](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
+[[Educational Aims and Objectives of the Course](#Education)]  [[Course workload and assessment](#workload)] [[Timetable 2015-16](#Timetable)] [[Reading List](#Reading List)] [[How to run the practicals elsewhere](#elsewhere)]
 
 -----------------------------------
 
