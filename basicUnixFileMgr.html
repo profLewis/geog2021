@@ -1,0 +1,204 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.5 [en] (X11; I; SunOS 5.8 sun4u) [Netscape]">
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EE" vlink="#993300" alink="#FF0000">
+
+<h1>
+Basic UNIX commands</h1>
+<b>Listing</b>
+<blockquote><font face="Courier New,Courier">machine%&nbsp;<a NAME="ls -l"></a><b><font color="#FF0000">ls -l ~plewis/2021/ETM-*
+</font></b></font></blockquote>
+The command 'ls -l' provides a 'long' listing of whatever you specify afterwards. In this case, '~plewis' refers to 'the home of plewis' (here otherwise known as /home/plewis). 2021 is a subdirectory of my plewis' home directory, and there are a bunch of files that start 'ETM-' - the * is a wildcard (meaning ETM_ followed by anything).
+
+<br>
+The command should result in (something like):
+<br><font face="Courier New,Courier">
+<br>-rw-r--r--   1 plewis   ps        196608 Nov 24  2006 /home/plewis/2021/ETM-1108subset
+<br>-rw-r--r--   1 plewis   ps           938 Nov 24  2006 /home/plewis/2021/ETM-1108subset.hdr
+<br>-rw-r--r--   1 plewis   ps       34200000 Sep 28  2006 /home/plewis/2021/ETM-190600
+<br>-rw-r--r--   1 plewis   ps           546 Sep 28  2006 /home/plewis/2021/ETM-190600.HDR
+<br>-rw-r--r--   1 plewis   ps          1391 Sep 28  2006 /home/plewis/2021/ETM-190600.sta
+<br>
+</font>
+<br><br>The first 'field' (-rw-r--r--) tells you about file permissions. It is grouped into 3 categories. -rw-r--r-- means that the owner (plewis) has read-and-write permission (rw) and that others have only read permission (r-).<br>
+The third field tells you the file owner.<br>
+The fifth field tells you the file size in bytes.<br>
+Thats all you really need to know right now.<br>
+<br><br>
+As an exercise, see what files (and sub-directories ...) you have in your home directory, e.g.<br>
+
+<br><font face="Courier New,Courier">
+machine% ls -l ~
+</font>
+<br>
+<br>
+This should include something like:<br>
+<br><font face="Courier New,Courier">
+lrwxrwxrwx   1 plewis   ps            23 Nov  6  2002 DATA -> /data/rsu_raid_0/plewis/
+</font>
+<br><br>
+Note that the 'permissions' field is different here (lrwxrwxrwx).
+This is telling us that (i) this is not a 'real' file or directory, but a 'symbolic link' to somewhere else (/data/rsu_raid_0/plewis/) in this case. So when we refer to ~plewis/DATA, we are actually referring to /data/rsu_raid_0/plewis/.
+; (ii) everyone has access permission to that directory (rwx)<br>
+
+
+<br>
+<b>change directory</b>
+<br>
+Let's change the directory we are in now (by default, you will start in your home directory). Suppose we want to go to the directory 'DATA'.If we are in the home directory, we could type:<br>
+<blockquote><font face="Courier New,Courier">machine%&nbsp;<a NAME="cd DATA"></a><b><font color="#FF0000">cd
+DATA</font></b></font></blockquote>
+<br>
+If we are elsewhere on the system, we would have to give the full pathname to get there:
+
+<blockquote><font face="Courier New,Courier">machine%&nbsp;<a NAME="cd DATA"></a><b><font color="#FF0000">cd
+~/DATA</font></b></font></blockquote>
+<br>
+<b><font face="Courier New,Courier">make a new directory</font></b>
+<blockquote><font face="Courier New,Courier">machine%&nbsp;<a NAME="mkdir practical1"></a><b><font color="#FF0000">mkdir
+practical1</font></b></font></blockquote>
+<b><font color="#000000">change directory again (relative to where you
+are ...)</font></b>
+<br><b><font face="Courier New,Courier"><font color="#FF0000"></font></font></b>&nbsp;
+<blockquote><font face="Courier New,Courier">machine% <b><font color="#FF0000">cd
+practical1</font></b></font></blockquote>
+<b>copy a file into the current directory ('.' == 'dot' == current directory)</b>
+<br><font face="Courier New,Courier"></font>&nbsp;
+<blockquote><font face="Courier New,Courier">machine%&nbsp;<a NAME="cp ~plewis/2021/ETM-* ."></a><b><font color="#FF0000">cp
+~plewis/2021/ETM-* .</font></b></font></blockquote>
+
+Note that the * symbol is a wildcard, so '~plewis/2021/ETM-*' is all files that start with ~plewis/2021/ETM-.
+
+The . ('dot')&nbsp; means the current directory.
+~ ('tilde' or 'twiddle')&nbsp; refers to the home directory of a user,
+so ~plewis refers to the home directory of plewis.
+
+<br><br>
+You should check to see what files have been copied over, e.g.:<br>
+<blockquote><font face="Courier New,Courier">machine%&nbsp;<a NAME="cd DATA"></a><b><font color="#FF0000">ls -l ~/DATA/practical1</font></b></font></blockquote>
+<br>
+
+<br>
+<h1>
+Some other useful commands:</h1>
+
+<ol>
+<ul>
+<li>
+You might also be interested in<b>&nbsp;<a NAME="how much disk space there is left"></a>how
+much disk space there is left</b> on the disk you are on:</li>
+
+<br><font face="Courier New,Courier">machine% <b><font color="#FF0000">df
+.</font></b></font>
+<br><font face="Courier New,Courier">Filesystem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+kbytes&nbsp;&nbsp;&nbsp; used&nbsp;&nbsp; avail capacity&nbsp; Mounted
+on</font>
+<br><font face="Courier New,Courier">prague:/space/local&nbsp; 7882624
+1930184 5873616&nbsp;&nbsp;&nbsp; 25%&nbsp;&nbsp;&nbsp; /data/prague</font>
+<p>tells us that the disk known as /data/prague has <font face="Courier New,Courier">5873616
+Kbytes available, for instance. Again, . ('dot') refers to the current
+directory/filesystem.</font>
+<br>&nbsp;
+<li>
+<a NAME="pwd"></a><b>To find out which directory you are in:</b></li>
+
+<br><font face="Courier New,Courier">machine% <b><font color="#FF0000">pwd</font></b></font>
+<br><font face="Courier New,Courier">/data/prague/plewis/public_html/b2004/1999</font>
+<br>&nbsp;
+<li>
+<a NAME="To delete a file"></a><b>To delete a file:</b></li>
+
+<br><font face="Courier New,Courier">machine% <b><font color="#FF0000">rm
+whatEverItsCalled.dat</font></b></font>
+<li>
+<b>t<a NAME="o compress a file:"></a>o compress a file:</b></li>
+
+<br><font face="Courier New,Courier">machine% <b><font color="#FF0000">gzip
+ETM-190600</font></b></font>
+<br>
+<p>Type:
+<p><font face="Courier New,Courier">machine% <b><font color="#FF0000">ls
+-l</font></b></font>
+<p>which gives (among other things)
+<p><font face="Courier New,Courier">-rw-r--r--&nbsp;&nbsp; 1 plewis&nbsp;&nbsp;
+ps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24094770 Sep 23 13:38 ETM-190600.gz</font>
+<p>The compressed file (with a .Z or .gz extension) is <font face="Courier New,Courier">24094770
+bytes (the original was 34200000, so the compression ratio is around 1.4 in
+this case).</font>
+<p>or to uncompress:
+<p><font face="Courier New,Courier">machine% <b><font color="#FF0000">gunzip
+ETM-190600</font></b></font>
+<br>&nbsp;
+<li>
+<b>The next time you want to run the practical, just do:</b></li>
+
+<br><font face="Courier New,Courier">machine% <b><font color="#FF0000">cd
+~/DATA/practical1</font></b></font>
+<br><font face="Courier New,Courier">machine% <b><font color="#FF0000">envi
+&amp;</font></b></font>
+<br>where envi is the software we will mostly be using for these practicals.
+<h1>
+Summary</h1>
+Today, you came across the following UNIX commands:
+<ul>
+<li>
+<font face="Courier New,Courier">cd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+change directory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cd ~plewis</font></li>
+
+<li>
+<font face="Courier New,Courier">mkdir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+make a directory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mkdir ~/DATA/something</font></li>
+
+<li>
+<font face="Courier New,Courier">cp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+copy files (cp &lt;from> &lt;to>)&nbsp;&nbsp; e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+cp ~plewis/logo/ucllogo.tif ~/DATA</font></li>
+
+<li>
+<font face="Courier New,Courier">ls -l&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+list all files in long format e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ls -l
+~plewis</font></li>
+
+<li>
+<font face="Courier New,Courier">df&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+disk space free&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; df ~</font></li>
+
+<li>
+<font face="Courier New,Courier">pwd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+print working directory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+pwd</font></li>
+
+<li>
+<font face="Courier New,Courier">rm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+remove a file&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rm ~/DATA/ucllogo.tif</font></li>
+
+<li>
+<font face="Courier New,Courier">gzip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;gzipfile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gzip ~/DATA/ucllogo.tif</font></li>
+
+<li>
+<font face="Courier New,Courier">gunzip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;gunzip a (.gz) file&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;gunzip ~/DATA/ucllogo.tif</font></li>
+</ul>
+
+<p><br>You also learnt
+what ~, &amp; and . mean.
+<p>Thats enough UNIX for one day! If you want to learn more UNIX or just
+some more background on workstations, directories etc., have a look at
+the <a href="http://www.geog.ucl.ac.uk/~plewis/teaching/unix/">MSc remote
+sensing course notes</a>.
+<br>&nbsp;
+<br>&nbsp;</ul>
+</ol>
+
+</body>
+</html>
