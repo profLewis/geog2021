@@ -1,12 +1,12 @@
-from IPython.html.widgets import interact, interactive, fixed
 from IPython.html import widgets
+from IPython.html.widgets import *
 from IPython.display import clear_output, display, HTML
-import matplotlib.pyplot as plt
+import pylab as plt
 import numpy as np
 
 def show_args(**kwargs):
-    w = int(kwargs['Filter width'])
-    sd = float(kwargs['noise sd'])
+    w = int(kwargs['a'])
+    sd = float(kwargs['sd'])
     filt = {}
     filt['Low Pass'] = np.array([1./w]*w).astype(float)
     filt['1st Order High Pass'] = np.array([0]*w).astype(float)
@@ -45,27 +45,23 @@ def show_args(**kwargs):
     #for k,v in kwargs.items():
     #    s += '<tr><td>{0}</td><td>{1}</td></tr>\n'.format(k,v)
     #s += '</table>'
-    
+   
     #display(HTML(s))
     plt.figure(1,figsize=(10,7))
     plt.plot(xx,yy,'k-')
     xmin,xmax = np.min(xx),np.max(xx)
     ymin,ymax = np.min(yy),np.max(yy)
-    rmin,rmax = np.min(rr),np.max(rr)
-    ymin = np.min([ymin,rmin])
-    ymax = np.max([ymax,rmax])
     off = 0.1*(ymax - ymin)
 
     plt.ylim(ymin-off,ymax+off)
 
-    plt.plot(xx,rr,'r')   
- 
+    plt.plot(xx,rr,'r')
 
 
-i = interact(show_args,
+
+interact(show_args,
          Signal =['Step','Ramp','Flat','Pulse'],
          FilterType =['Low Pass','1st Order High Pass','2nd Order High Pass'],
-         a=widgets.FloatSliderWidget(min=2, max=100, step=1, value=3, description="Filter width"),
-         sd=widgets.FloatSliderWidget(min=0.0, max=0.3, step=0.01,value = 0.0, description="noise sd")
+         a=widgets.FloatSlider(min=2, max=100, step=1, value=3, description="Filter width"),
+         sd=widgets.FloatSlider(min=0.0, max=0.3, step=0.01,value = 0.0, description="noise sd")
          )
-
