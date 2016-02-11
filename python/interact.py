@@ -49,11 +49,8 @@ def show_args(**kwargs):
     #display(HTML(s))
     plt.figure(1,figsize=(10,7))
     plt.plot(xx,yy,'k-')
-    xmin,xmax = np.min(xx),np.max(xx)
-    ymin,ymax = np.min(yy),np.max(yy)
-    off = 0.1*(ymax - ymin)
-
-    plt.ylim(ymin-off,ymax+off)
+    
+    plt.ylim(-1.5,1.5)
 
     plt.plot(xx,rr,'r')
 
