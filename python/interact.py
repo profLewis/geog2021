@@ -1,5 +1,14 @@
-from IPython.html import widgets
-from IPython.html.widgets import *
+try:
+    from IPython.html import widgets
+    from IPython.html.widgets import *
+except:
+    try:
+        from ipywidgets import widgets
+        from ipywidgets.widgets import *
+    except:
+        print 'do: pip install --user ipywidgets'
+        
+    
 from IPython.display import clear_output, display, HTML
 import pylab as plt
 import numpy as np
