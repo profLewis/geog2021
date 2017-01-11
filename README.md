@@ -67,11 +67,11 @@ N.B.
 
 |  | Monday 09:00-10:00 | Thursday 11:00-12:00 | Thursday 12:00-13:00 |
 | -------------------|  -------------------| :-----------------: | :------------------: |
-| Week 1 | 09/1/17 LECTURE 1 [Introduction to course; Environmental Remote Sensing](coursenotes/lecture1.pdf) | 14/1/16 COMPUTING 1 [Introductory Computing](unix.md)|14/1/16 COMPUTING 2 [Image Display](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/ImageDisplay.ipynb)|
-| Week 2 | 18/1/16 LECTURE 2 [Image Display and Enhancement](coursenotes/lecture2.pdf) | 21/1/16 COMPUTING 2 [Image Display](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/ImageDisplay.ipynb)| 21/1/16 COMPUTING 2 [Image Display](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/ImageDisplay.ipynb)|
-| Week 3 | 25/1/16 LECTURE 3 [Spatial Information](coursenotes/lecture3.pdf) | 28/1/16 COMPUTING 2 [Spatial Filtering](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/SpatialFiltering.ipynb)| 28/1/16 COMPUTING 2 [Spatial Filtering](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/SpatialFiltering.ipynb)|
-| Week 4 | 01/2/16 LECTURE 4 [Image Classification](coursenotes/lecture4.pdf) | 04/2/16 COMPUTING 3 [Classification](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/Classification.ipynb)| 04/2/16 COMPUTING 3 [Classification](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/Classification.ipynb)|
-| Week 5 | 08/2/16 LECTURE 5 [Spectral Information](coursenotes/lecture5.pdf) | 11/2/16 COMPUTING 3 [Classification](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/Classification.ipynb)| 11/2/16 COMPUTING 3 [Classification](https://nbviewer.jupyter.org/github/profLewis/geog2021/blob/master/Classification.ipynb)|
+| Week 1 | 09/1/17 LECTURE 1 [Introduction to course; Environmental Remote Sensing](coursenotes/lecture1.pdf) | 14/1/16 COMPUTING 1 [Introductory Computing](unix.md)|14/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 2 | 18/1/16 LECTURE 2 [Image Display and Enhancement](coursenotes/lecture2.pdf) | 21/1/16 COMPUTING 2 [Data download](Dowload.ipynb)| 21/1/16 COMPUTING 2 [Image Display](ImageDisplay.ipynb)|
+| Week 3 | 25/1/16 LECTURE 3 [Spatial Information](coursenotes/lecture3.pdf) | 28/1/16 COMPUTING 2 [Spatial Filtering](SpatialFiltering.ipynb)| 28/1/16 COMPUTING 2 [Spatial Filtering](SpatialFiltering.ipynb)|
+| Week 4 | 01/2/16 LECTURE 4 [Image Classification](coursenotes/lecture4.pdf) | 04/2/16 COMPUTING 3 [Classification](Classification.ipynb)| 04/2/16 COMPUTING 3 [Classification](Classification.ipynb)|
+| Week 5 | 08/2/16 LECTURE 5 [Spectral Information](coursenotes/lecture5.pdf) | 11/2/16 COMPUTING 3 [Classification](Classification.ipynb)| 11/2/16 COMPUTING 3 [Classification](Classification.ipynb)|
 | Week 6 | READING WEEK | READING WEEK | READING WEEK |
 | Week 7 | 22/2/16 LECTURE 6 [Environmental Modelling: I](coursenotes/modelling1.pdf) | 25/2/16 COMPUTING 4 [Project](http://proflewis.github.io/Geog2021_Coursework/)| 25/2/16 COMPUTING 4 [Project](http://proflewis.github.io/Geog2021_Coursework/)|
 | Week 8 | 29/2/16 LECTURE 6 [Environmental Modelling: II](coursenotes/modelling2.pdf)| 03/3/16 COMPUTING 4 [Project](http://proflewis.github.io/Geog2021_Coursework/)|
